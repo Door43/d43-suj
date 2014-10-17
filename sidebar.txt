@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[suj:home|Door43 (suj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-suj|d43-suj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-suj/archive/master.zip|d43-suj.zip]]
+
+**Recent Changes**
+{{changes>ns = suj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/suj|Ethnologue data]]
+
